@@ -1,0 +1,11 @@
+C:\Users\Denis\Desktop\BoxIconRemove\BoxIconRemove\BoxIconRemove\bin\Debug\BoxIconRemove.exe.config
+C:\Users\Denis\Desktop\BoxIconRemove\BoxIconRemove\BoxIconRemove\bin\Debug\BoxIconRemove.exe
+C:\Users\Denis\Desktop\BoxIconRemove\BoxIconRemove\BoxIconRemove\bin\Debug\BoxIconRemove.pdb
+C:\Users\Denis\Desktop\BoxIconRemove\BoxIconRemove\BoxIconRemove\obj\Debug\BoxIconRemove.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\BoxIconRemove\BoxIconRemove\BoxIconRemove\obj\Debug\BoxIconRemove.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denis\Desktop\BoxIconRemove\BoxIconRemove\BoxIconRemove\obj\Debug\BoxIconRemove.Form1.resources
+C:\Users\Denis\Desktop\BoxIconRemove\BoxIconRemove\BoxIconRemove\obj\Debug\BoxIconRemove.Properties.Resources.resources
+C:\Users\Denis\Desktop\BoxIconRemove\BoxIconRemove\BoxIconRemove\obj\Debug\BoxIconRemove.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\BoxIconRemove\BoxIconRemove\BoxIconRemove\obj\Debug\BoxIconRemove.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\BoxIconRemove\BoxIconRemove\BoxIconRemove\obj\Debug\BoxIconRemove.exe
+C:\Users\Denis\Desktop\BoxIconRemove\BoxIconRemove\BoxIconRemove\obj\Debug\BoxIconRemove.pdb
