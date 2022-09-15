@@ -35,3 +35,9 @@
 Скриншоты программы🦉
 
 ![Безымянный](https://user-images.githubusercontent.com/51737588/189710830-8485997b-8a02-4e02-834b-036b590ca683.jpg)
+
+Полезные ссылки🔗:
+
+1. Урок по работе с реестром https://www.youtube.com/watch?v=1WCmhHq1aJQ&list=LL&index=6
+
+2. Статья о том как убираются ярлыки https://remontka.pro/remove-arrows-shortcuts-windows-10/
