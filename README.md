@@ -1,7 +1,21 @@
 # BoxIconRemove
 Удаление стрелок с ярлыка
 
-![Без имени-1](https://user-images.githubusercontent.com/51737588/189711080-5363210b-8b2b-4644-8794-48bfb5364690.png)
+<p align = "center">
+
+  <img src = "https://user-images.githubusercontent.com/51737588/189711080-5363210b-8b2b-4644-8794-48bfb5364690.png">
+
+</p>
+
+
+<p align = "center">
+
+<img src = "https://img.shields.io/badge/%D0%9E%D0%A1%3A-Windows%207--10-blue">
+<img src = "https://img.shields.io/badge/%D0%A0%D0%B0%D0%B7%D1%80%D1%8F%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%8C-x64-important">
+
+</p>
+
+
 
 Программа BoxIconRemove преднозначена для удаления стрелок с ярлыка и возможностью поставить свою кастомную иконку.
 
